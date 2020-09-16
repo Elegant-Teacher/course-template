@@ -1,1 +1,1 @@
-# courses-html5
+# Course name
